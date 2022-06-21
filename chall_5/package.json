@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "name": "chall_5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "Ceci est un algorithme de test des occurences de mot dans un message"
+  },
+  "keywords": ["algo", "alogorithme", "dediction", ""],
+  "author": "",
+  "license": "ISC"
+}
